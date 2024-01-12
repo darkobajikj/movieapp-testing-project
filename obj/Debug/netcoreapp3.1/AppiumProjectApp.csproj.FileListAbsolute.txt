@@ -1,0 +1,5 @@
+C:\Users\Darko\Documents\AppiumProjectApp\obj\Debug\netcoreapp3.1\AppiumProjectApp.csproj.AssemblyReference.cache
+C:\Users\Darko\Documents\AppiumProjectApp\obj\Debug\netcoreapp3.1\AppiumProjectApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darko\Documents\AppiumProjectApp\obj\Debug\netcoreapp3.1\AppiumProjectApp.AssemblyInfoInputs.cache
+C:\Users\Darko\Documents\AppiumProjectApp\obj\Debug\netcoreapp3.1\AppiumProjectApp.AssemblyInfo.cs
+C:\Users\Darko\Documents\AppiumProjectApp\obj\Debug\netcoreapp3.1\AppiumProjectApp.csproj.CoreCompileInputs.cache
